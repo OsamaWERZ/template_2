@@ -147,4 +147,10 @@
     .footer-column {
         padding: 0;
     }
+    .social-links {
+        justify-content: center;
+    }
+    .mob{
+        text-align: center;
+    }
 }
